@@ -1,0 +1,15 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "description": "Build a CLI app to track your tasks and manage your to-do list",
+  "main": "task.js",
+  "scripts": {
+    "ttc": "node ./task.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI"
+  ],
+  "author": "Jordi Dalmau",
+  "license": "ISC"
+}
